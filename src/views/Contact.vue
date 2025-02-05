@@ -28,7 +28,7 @@
       </li>
       <li>
         <i class="fa fa-spotify fa-lg fa-fw"></i>
-        <a href="https://myblog.tumblr.com" target="_blank">myblog.tumblr.com</a>
+        <a href="https://open.spotify.com/artist/6iUzFx5Hk4Cb5VTLD7nuNC?si=8jBjypRpRxaNsCynn3FcfQ" target="_blank">spotify.me</a>
       </li>
       <li>
         <i class="fa fa-steam fa-lg fa-fw"></i>

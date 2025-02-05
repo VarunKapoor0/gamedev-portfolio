@@ -1,106 +1,52 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-6", "Sultans Of Sing", "img/projects/project-6-icon.png", `
+    new ProjectData("project-6", "Publication: Augmented Reality Enabled Education for Middle Schools", "img/projects/project-6-icon.png", `
     <div class="paragraph">
-      <strong>Sultans Of Sing</strong> is a thing of beauty that I am so proud of. It's available on Windows Store because why not.
-      <br/>Image by <a href="https://www.pexels.com/fr-fr/@aldoalz" target="blank">Aldo Picaso</a>.
+      <strong>Augmented Reality Enabled Education for Middle Schools</strong> is a conference paper that I authored which talks about creating an augmented reality application for android which can be used to teach important concepts to middle school students in a visual and interactive manner.
+      <br/>DOI : <a href="https://link.springer.com/article/10.1007/s42979-020-00155-6" target="blank">10.1007/s42979-020-00155-6</a>.
             </div>
-            <div class="paragraph center">
-              <a href="https://www.microsoft.com/en-us/p/some-app" target="_blank"><img src="img/projects/ms-store-logo.png" alt="MS Store button" /></a>
-          </div>
 
           <div class="paragraph">
             Main features :
             <ul>
-            <li>Some stuff</li>
-            <li>Some great stuff</li>
-            <li>More awesome stuff</li>
-            <li>And then some</li>
+            <li>Use case of Augmented reality for helping students have a more interactive and learning experience during or after class.</li>
+            <li>ArCore for android.</li>
+            <li>Uses the unity game engine.</li>
+            <li>Uses firebase for verifying whether the user is an educator or a student.</li>
+            <li>Interactive newspaper. Based on the image printed in a newspaper, a video is overlayed on top of the image related to the image.</li>
+            <li>An interactive model of the solar system, with details of all the planets, the sun, and the moons.</li>
             </ul>
         </div>
 
-        <div class="paragraph center">
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" />
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" />
-          <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Sultans Of Sing Screenshot" /> 
-        </div>
     `, "#c10606", false, true),
-    new ProjectData("project-7", "Drew Blood", "img/projects/project-7-icon.png", `
+    new ProjectData("project-7", "Butterfly Dance", "img/projects/project-7-icon.png", `
     <div class="paragraph">
-                <strong>Drew Blood</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-                <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@karolina-grabowska">Karolina Grabowska</a>.
+                <strong>Butterfly dance</strong> is a song that I created because I wanted to. It is chill, relaxing instrumental which my friendsand family listen to while studying or during a rainy day.
+                <br/>It's on spotify, listen to it <a target="_blank" href="https://open.spotify.com/track/1uKPMtyoJlxdzeI3XgZg3n?si=13fb35f625ab494c">here</a>.
             </div>
 
             <div class="paragraph">
               Main features :
               <ul>
-              <li>Some stuff</li>
-              <li>Some great stuff</li>
-              <li>More awesome stuff</li>
-              <li>And then some</li>
+              <li>Instrumental.</li>
+              <li>Its relaxing.</li>
+              <li>A pitstop while browsing my website.</li>
+              <li>Have fun and enjoy :)</li>
               </ul>
           </div>
-
-            <div class="paragraph">
-              <div class="notice">
-                You can download and try the app for free or purchase it directly from <a href="http://www.somewbsite.com/" target="_blank">Some website</a>
-              </div>
-            </div>
-
-            <div class="paragraph center">
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" />
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" />
-                <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drew Blood Screenshot" /> 
             </div>`, "#1ca1e2"),
-    new ProjectData("project-8", "The Art of Walking", "img/projects/project-8-icon.png", `
+    new ProjectData("project-8", "Bombadil Ale", "img/projects/project-8-icon.png", `
     <div class="paragraph">
-                <strong>The Art of Walking</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-            </div>
-
-            <div class="paragraph center">
-              <a href="https://play.google.com/store/apps/details?id=someapp" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
-          </div>
+                <strong>Bombadil Ale</strong> is an episodic audio on spotify where I talk about all things Lord of the Rings. Why? Because I love Middle-Earth.
+                <br/>It's on spotify, listen to it <a target="_blank" href="https://open.spotify.com/episode/1EBhs97dTEWJ4Gw2vPsV0r?si=c2b58b5551b24536">here</a>.
+                </div>
 
           <div class="paragraph">
           Main features :
           <ul>
-          <li>Some stuff</li>
-          <li>Some great stuff</li>
-          <li>More awesome stuff</li>
-          <li>And then some</li>
+          <li>Lord of the Rings details.</li>
+          <li>Get informed about various lore pieces regarding J.R.R. Tolkien and the world of Middle_Earth.</li>
           </ul>
-      </div>
-
-            <div class="paragraph">
-              <div class="notice">
-                Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-              </div>
-            </div>
-
-            <div class="paragraph center">
-                <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="The Art of Walking Screenshot" />
-                <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="The Art of Walking Screenshot" />
-            </div>`),
-    new ProjectData("project-9", "Nikolable", "img/projects/project-9-icon.png", `
-     <div class="paragraph">
-                <strong>Nikolable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-                <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@goumbik">Lukas</a>.
-            </div>
-
-            <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
-
-            <div class="paragraph">
-              <div class="notice">
-                Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-              </div>
-            </div>`),
+      </div>`),
 ];
